@@ -1,0 +1,6 @@
+discord.py
+requests.py
+pandas.py
+dotenv.py
+scipy.py
+time.py
