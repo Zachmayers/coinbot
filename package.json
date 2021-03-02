@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "heroku": "^7.49.1"
+  }
+}
